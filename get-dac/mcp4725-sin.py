@@ -1,5 +1,5 @@
 import signal_generator as sg
-import driver as mcp
+import mcp4725_driver as mcp
 import time
 amplitude=3
 signal_frequency=10
